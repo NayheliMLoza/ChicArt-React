@@ -1,0 +1,35 @@
+.card-container {
+    align-items: center;
+    background-color: rgb(202, 146, 253);
+    border: solid 2px #4a167a;
+    width: 350px;
+    height: 420px;
+    margin: 20px;
+    border-radius: 10px;
+    color:#4a167a;
+    text-align: center;
+    padding: 20px;
+}
+
+.card-title{
+    font-size: 1,1rem;
+    color: #4a167a;
+    text-decoration: none;
+}
+
+/* .card-container button{
+    align-items: center;
+    background-color: rgb(202, 146, 253);
+    border: solid 2px #4a167a;
+    width: 320px;
+    height: 30px;
+    text-align: center;
+    color:#4a167a;
+} */
+
+
+
+.card-container img{
+    width: 300px;
+    height: 220px;
+}
